@@ -1,0 +1,612 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20180730_SKINNY-half_solid-color_495x25.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=rplcart-rule",
+    "Headline": "<span style = \"color: #fff\">BUY 2 OR MORE, GET 20% OFF </span>",
+    "Subline": "Gear up for the weekend with outfits from today's leading labels. Valid only on items in this page",
+    "EventLabel": "SAL|Women|wbuytwogettwentyoff|ALL|NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20180730_SKINNY-half_textured_495x25.jpg",
+    "Exit Url": "/women/shoes/?brand=alberto--bandolino--cln--figliarina--mnicole--preview--shubizz&sort=latest%20arrival",
+    "Headline": "<span style = \"color: #fff\">JUST IN: SHOES</span>",
+    "Subline": "Stay one step ahead in the newest pairs",
+    "EventLabel": "CAT|Women|wShoesNewArrivals|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/V2_Women_ByeJuly_BYE20_Hero_Banner.jpg",
+    "Exit Url": "/women/all-products/?vc=bye20",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wbyejulytwentyoff|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_TheWorkingClass_N4-CU3_360x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=working-class",
+    "Headline": "THE WORKING CLASS",
+    "Subline": "Sleek pieces to spice up your office attire",
+    "EventLabel": "TRE|Women|wtheworkingclass|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_RPL_CartRule_Buy2get20off_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=rplcart-rule",
+    "Headline": "ZALORA EXCLUSIVES: BUY 2 OR MORE, GET 20% OFF",
+    "Subline": "Gear up for the weekend with outfits from today's leading labels. Valid only on items in this page",
+    "EventLabel": "SAL|Women|wbuytwogettwentyoff|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_20NewArrivals_NCU1-3.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=20-new&vc=20new",
+    "Headline": "20% off selected new arrivals",
+    "Subline": "Use code: 20NEW. No minimum spend",
+    "EventLabel": "SAL|Women|wtwentyoffselectednewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_Shoes_New_Arrivals_N1_4_360x420.jpg",
+    "Exit Url": "/women/shoes/?brand=alberto--bandolino--cln--figliarina--mnicole--preview--shubizz&sort=latest%20arrival",
+    "Headline": "JUST IN: SHOES",
+    "Subline": "Stay one step ahead in the newest pairs",
+    "EventLabel": "CAT|Women|wShoesNewArrivals|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_SceneStealer_CU3_360x420.jpg",
+    "Exit Url": "/women/beauty/eye-shadows/",
+    "Headline": "Scene Stealers",
+    "Subline": "Eyeshadow hues that will make them stop and stare",
+    "EventLabel": "CAT|Women|wscenestealers|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_JumpIntoIt_Jumpsuit_620x420.jpg",
+    "Exit Url": "/women/clothing/long-jumpsuits/?gender=women&dir=desc&sort=latest%20arrival",
+    "Headline": "Jump into it",
+    "Subline": "The one piece ensemble to get you through day and night",
+    "EventLabel": "CAT|Women|wjumpintoit|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_FB_20180730_ChloeEdit_322x165.jpg",
+    "Exit Url": "/women/chloe-edit/?gender=women&classifier=false&SearchSuggest=true&dir=desc&sort=latest%20arrival&q=chloe%20edit&enable_visual_sort=1&brand=chloe-edit",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wChloeEdit|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/322x165_Plains_and_Prints_ZAP_Mark_Bumgarner.jpg",
+    "Exit Url": "/women/clothing/plains-prints/?q=Mark+Bumgarner",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wPlainsPrintsMarkBvmgarner|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_FB_20180730_H2Ocean_322x165.jpg",
+    "Exit Url": "/women/h2ocean/?gender=women&classifier=false&SearchSuggest=true&dir=desc&sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wH2Ocean New Arrivals|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_Rosefield_B1-6_322x165.jpg",
+    "Exit Url": "/women/rosefield/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wRosefield|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_FB_20180730_BeautyBlender_322x165.jpg",
+    "Exit Url": "/women/beauty-blender/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wBeautyBlender|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_FB_20180730_Unarosa_322x165.jpg",
+    "Exit Url": "/women/unarosa/?gender=women&classifier=false&SearchSuggest=true&dir=desc&sort=latest%20arrival&q=unarosa&enable_visual_sort=1&brand=unarosa",
+    "Headline": "Una Rosa",
+    "Subline": "",
+    "EventLabel": "BRA|Women|wUnaRosa|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_Fb_20180730_Sandals_300x198.jpg",
+    "Exit Url": "/women/shoes/heels-slide/?gender=women&dir=desc&sort=latest%20arrival",
+    "Headline": "Slides",
+    "Subline": "Slides",
+    "EventLabel": "BRA|Women|wSlides|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_Fb_20180730_Pants_300x198.jpg",
+    "Exit Url": "/women/clothing/skinny-jeans/?gender=women&dir=desc&sort=latest%20arrival",
+    "Headline": "Jeans",
+    "Subline": "Jeans",
+    "EventLabel": "BRA|Women|wJeans|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_Fb_20180730_Tshirts_375x500.jpg",
+    "Exit Url": "/women/clothing/t-shirts/",
+    "Headline": "T-shirts",
+    "Subline": "T-shirts",
+    "EventLabel": "BRA|Women|wTshirts|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_Fb_20180730_Leggings_300x198.jpg",
+    "Exit Url": "/women/sports/sports-capris/all-products/?gender=women&dir=desc&sort=latest%20arrival",
+    "Headline": "Leggings",
+    "Subline": "Leggings",
+    "EventLabel": "BRA|Women|wLeggings|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_Fb_20180730_Liptint_300x198.jpg",
+    "Exit Url": "/women/beauty/lip-tints/?gender=women&dir=desc&sort=latest%20arrival",
+    "Headline": "Lip Tints",
+    "Subline": "Lip Tints",
+    "EventLabel": "BRA|Women|wLipTints|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_20180730_SKINNY-half_solid-color_495x25.jpg",
+    "Exit Url": "/men/sports/new-products/",
+    "Headline": "<span style = \"color: #fff\">New In: Sports</span>",
+    "Subline": "Smash those fitness goals in a fresh set of activewear",
+    "EventLabel": "CAT|Men|msportsnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_20180730_SKINNY-half_textured_495x25.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=20-new&vc=20new",
+    "Headline": "<span style = \"color: #fff\">20% off selected new arrivals. Use code: 20NEW</span>",
+    "Subline": "No minimum spend",
+    "EventLabel": "SAL|Men|mtwentyoffselectednewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/V1_Men_ByeJuly_BYE20_HERO_996x500_FINAL.jpg",
+    "Exit Url": "/men/all-products/?vc=bye20",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|mbyejulytwentyoff|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_Sports_NewArrivals_20180730_360x420.jpg",
+    "Exit Url": "/men/sports/new-products/",
+    "Headline": "New In: Sports",
+    "Subline": "Smash those fitness goals in a fresh set of activewear",
+    "EventLabel": "CAT|Men|msportsnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_Officewear_PowerSuit_N2_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=power-suit",
+    "Headline": "Power Suit",
+    "Subline": "Upgrade your officewear with this roundup of clean & crisp pieces",
+    "EventLabel": "TRE|Men|mpowersuit|ALL|NA"
+  },
+  {
+    "Placement": "mn3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_NewArrivals20new_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=20-new&vc=20new",
+    "Headline": "20% off selected new arrivals",
+    "Subline": "Use code: 20NEW. No minimum spend",
+    "EventLabel": "SAL|Men|mtwentyoffselectednewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "mn4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_JustInShoes_N1-CU3_360x420.jpg",
+    "Exit Url": "/men/shoes/new-products/",
+    "Headline": "Just In: Shoes",
+    "Subline": "Stay one step ahead in the newest pairs",
+    "EventLabel": "CAT|Men|mjustinshoes|ALL|NA"
+  },
+  {
+    "Placement": "mcu3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mcu4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_20180727_Topman_322x165.jpg",
+    "Exit Url": "/men/topman/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mTOPMAN|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_20180727_CalvinKlein_322x165.jpg",
+    "Exit Url": "/men/calvin-klein/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mCalvinKlein|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_20180727_HushPuppies_322x165.jpg",
+    "Exit Url": "/men/hush-puppies/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mHushPuppies|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_20180727_DanielWellington_322x165.jpg",
+    "Exit Url": "/men/daniel-wellington/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mDanielWellington|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_20180727_AmericanTourister_322x165.jpg",
+    "Exit Url": "/men/american-tourister/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mAmericanTourister|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_20180727_Vans_322x165.jpg",
+    "Exit Url": "/men/vans/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mVANS|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_FB_20180730_Pants_300x198.jpg",
+    "Exit Url": "/men/clothing/casual-pants/?sort=latest%20arrival",
+    "Headline": "Pants",
+    "Subline": "Pants",
+    "EventLabel": "CAT|Men|mPants|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_FB_20180730_SlipOns_300x198.jpg",
+    "Exit Url": "/men/shoes/slip-on/?sort=latest%20arrival",
+    "Headline": "Slip Ons",
+    "Subline": "Slip Ons",
+    "EventLabel": "CAT|Men|mSlipOns|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_FB_20180730_Sweaters_375x500.jpg",
+    "Exit Url": "/men/clothing/hoodies-sweatshirts/?sort=latest%20arrival",
+    "Headline": "Sweaters",
+    "Subline": "Sweaters",
+    "EventLabel": "CAT|Men|mSweaters|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_FB_20180730_Caps_300x198.jpg",
+    "Exit Url": "/men/accessories/caps/",
+    "Headline": "Caps",
+    "Subline": "Caps",
+    "EventLabel": "CAT|Men|mCaps|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_FB_20180730_Bags_300x198.jpg",
+    "Exit Url": "/men/bags/body-bags/",
+    "Headline": "Bags",
+    "Subline": "Bags",
+    "EventLabel": "CAT|Men|mBags|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_ByeJuly_BYE20_MOBILE-web_skinnyGIF_700x200.gif",
+    "Exit Url": "/women/all-products/?vc=bye20",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wbyejulytwentyoff|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/V2_Women_ByeJuly_BYE20_MOBILE-web_hero_600x600.jpg",
+    "Exit Url": "/women/all-products/?vc=bye20",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wbyejulytwentyoff|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_RPL_CartRule_Buy2get20off_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=rplcart-rule",
+    "Headline": "ZALORA EXCLUSIVES: BUY 2 OR MORE, GET 20% OFF",
+    "Subline": "Gear up for the weekend with outfits from today's leading labels. Valid only on items in this page",
+    "EventLabel": "SAL|Women|wbuytwogettwentyoff|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_Shoes_New_Arrivals_NCU2_620x420.jpg",
+    "Exit Url": "/women/shoes/?brand=alberto--bandolino--cln--figliarina--mnicole--preview--shubizz&sort=latest%20arrival",
+    "Headline": "JUST IN: SHOES",
+    "Subline": "Stay one step ahead in the newest pairs",
+    "EventLabel": "CAT|Women|wShoesNewArrivals|ALL|NA"
+  },
+  {
+    "Placement": "wn3",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_20NewArrivals_NCU1-3.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=20-new&vc=20new",
+    "Headline": "20% off selected new arrivals",
+    "Subline": "Use code: 20NEW. No minimum spend",
+    "EventLabel": "SAL|Women|wtwentyoffselectednewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_Fb_20180730_Pants_300x198.jpg",
+    "Exit Url": "/women/clothing/skinny-jeans/?gender=women&dir=desc&sort=latest%20arrival",
+    "Headline": "Jeans",
+    "Subline": "Jeans",
+    "EventLabel": "BRA|Women|wJeans|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_Fb_20180730_Tshirts_300x198.jpg",
+    "Exit Url": "/women/clothing/t-shirts/",
+    "Headline": "T-shirts",
+    "Subline": "T-shirts",
+    "EventLabel": "BRA|Women|wTshirts|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_ByeJuly_BYE20_MOBILE-web_skinnyGIF_700x200.gif",
+    "Exit Url": "/men/all-products/?vc=bye20",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|mbyejulytwentyoff|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/V2_Men_ByeJuly_BYE20_MOBILE-web_hero_600x600.jpg",
+    "Exit Url": "/men/all-products/?vc=bye20",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|mbyejulytwentyoff|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_Sports_NewArrivals_20180730_620x420.jpg",
+    "Exit Url": "/men/sports/new-products/",
+    "Headline": "New In: Sports",
+    "Subline": "Smash those fitness goals in a fresh set of activewear",
+    "EventLabel": "CAT|Men|msportsnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_Officewear_PowerSuit_NCU1-1-3.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=power-suit",
+    "Headline": "Power Suit",
+    "Subline": "Upgrade your officewear with this roundup of clean & crisp pieces",
+    "EventLabel": "TRE|Men|mpowersuit|ALL|NA"
+  },
+  {
+    "Placement": "mn3",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_NewArrivals20new_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=20-new&vc=20new",
+    "Headline": "20% off selected new arrivals",
+    "Subline": "Use code: 20NEW. No minimum spend",
+    "EventLabel": "SAL|Men|mtwentyoffselectednewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_FB_20180730_Sweaters_300x198.jpg",
+    "Exit Url": "/men/clothing/hoodies-sweatshirts/?sort=latest%20arrival",
+    "Headline": "Sweaters",
+    "Subline": "Sweaters",
+    "EventLabel": "CAT|Men|mSweaters|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_FB_20180730_Caps_300x198.jpg",
+    "Exit Url": "/men/accessories/caps/",
+    "Headline": "Caps",
+    "Subline": "Caps",
+    "EventLabel": "CAT|Men|mCaps|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/V2_Women_ByeJuly_BYE20_HERO_996x500_FINAL.jpg",
+    "Exit Url": "/all-products/?vc=bye20",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Unisex|byejulytwentyoff|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_RPL_CartRule_Buy2get20off_322x300.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=rplcart-rule",
+    "Headline": "ZALORA EXCLUSIVES: BUY 2 OR MORE, GET 20% OFF",
+    "Subline": "Gear up for the weekend with outfits from today's leading labels. Valid only on items in this page",
+    "EventLabel": "SAL|Women|wbuytwogettwentyoff|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_Shoes_New_Arrivals_HP_322_300.jpg",
+    "Exit Url": "/women/shoes/?brand=alberto--bandolino--cln--figliarina--mnicole--preview--shubizz&sort=latest%20arrival",
+    "Headline": "JUST IN: SHOES",
+    "Subline": "Stay one step ahead in the newest pairs",
+    "EventLabel": "CAT|Women|wShoesNewArrivals|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_Officewear_PowerSuit_HOMEPAGE-bottom_326x304.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=power-suit",
+    "Headline": "Power Suit",
+    "Subline": "Upgrade your officewear with this roundup of clean & crisp pieces",
+    "EventLabel": "TRE|Men|mpowersuit|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/V2_Women_ByeJuly_BYE20_600x600.jpg",
+    "Exit Url": "/all-products/?vc=bye20",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Unisex|byejulytwentyoff|ALL|NA"
+  }
+]
